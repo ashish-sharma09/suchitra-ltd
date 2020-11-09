@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Suchitra</title>
+    <link>https://examplesite.com/blog/</link>
+    <description>Recent content in Blogs on Suchitra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2020 14:51:12 +0600</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://examplesite.com/blog/coming-soon/</link>
+      <pubDate>Mon, 09 Nov 2020 14:51:12 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/coming-soon/</guid>
+      <description>Coming soon a blog on home automation using an exciting all round technology, keep watching this space.</description>
+    </item>
+    
+  </channel>
+</rss>
