@@ -1,0 +1,38 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Works Across Domains
+  filter_List :
+    - filter_Type : publishing
+      filter_Title : Publishing
+
+    - filter_Type : travel
+      filter_Title : Travel
+
+    - filter_Type : media
+      filter_Title : Media
+
+    - filter_Type : finance
+      filter_Title : Finance
+
+    - filter_Type : retail
+      filter_Title : Retail
+
+  portfolio_Item :
+    - types : ["publishing", "travel", "media"]
+      image : images/portfolio/website-development.jpg
+      URL : #
+      title : Website development
+      content : Full stack website development
+      
+    - types : ["travel", "media", "finance", "retail"]
+      image : images/portfolio/api-development.jpg
+      URL : #
+      title : API Development
+      content : Service driven API development
+
+    - types: ["finance", "retail"]
+      image: images/portfolio/monitoring-development.jpg
+      URL: #
+      title: Monitoring And Reporting
+      content: Monitoring reporting and alerting

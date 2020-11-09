@@ -1,0 +1,28 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_Item :
+    - icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      title : Microservices
+      content : We are proficient in delivering cloud based microservices
+
+    - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      title : Website Development
+      content : Static or dynamice Website development.
+
+    - icon : ti-view-grid # themify icon pack : https://themify.me/themify-icons
+      title : Distributed Systems
+      content : Distributed system development using messaging framework.
+
+#    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+#      title : Graphic Design
+#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
+    - icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      title : Apps Development
+      content : Android or iPhone application development.
+      
+#    - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+#      title : Networking
+#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

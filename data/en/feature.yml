@@ -1,0 +1,22 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  title : We’re A Solutions Provider.
+  content : "Our job is to work closely with you on solutions that align with your requirements and achieve their timely delivery"
+  feature_Item : 
+    - icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
+      title : Cloud Based
+      content : Cloud based solutions are quick to develop, cost effective, secured and scalable. With so many cloud based platforms now available our solutions can be dedicated to one platform or be agnostic.
+
+    - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      title : Process Driven
+      content : We value defined set of processes and methodologies around our solution and there implementations. Unforunately there is no one size fit all methodology, so we customize where necessary and aim to improve that may already exist and work for you.
+
+    - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      title : Monitoring and Alerting
+      content : Monitoring your application and having appropriate alerts around them is an essential part of maintaining smooth operation of any business. We specialise in number of enterprise and open source tools to acheive the right level of reporting and monitoring.
+
+    - icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      title : Automation
+      content : We aim to achieve maximum level of possible automation around recurring and repeatable tasks, during and post implementation. This allows you to focus on your business more.

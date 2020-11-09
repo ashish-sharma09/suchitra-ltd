@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_Item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : We're Experienced
+    content : With over a decade of experience working on innovative full stack solutions, we come with enriched experience ranging from varied domains and technologies.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : We're Skilled
+    content : With broad range of skillset around conceptualizing, planning, developing, deploying and supporting solutions, our expertise is available from start to the finish.
+
+  - icon : ti-vector # themify icon pack : https://themify.me/themify-icons
+    title : We're You
+    content : We build and carry proficiency around broad range of domains like media, retail, finance, travel, publishing etc allowing us to understand you and your domain better.

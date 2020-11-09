@@ -1,0 +1,19 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_Member :
+    # team member loop
+    - image : images/team/ashish.jpeg
+      name : Ashish Sharma
+      designation : CEO/Founder
+      content : Proudly heading projects development.
+      social_Icon :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "http://www.linkedin.com/in/ashish-sharma09"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
