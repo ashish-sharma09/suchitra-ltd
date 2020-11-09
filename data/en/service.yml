@@ -9,20 +9,16 @@ service:
 
     - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       title : Website Development
-      content : Static or dynamice Website development.
+      content : Static or dynamice Website development
 
     - icon : ti-view-grid # themify icon pack : https://themify.me/themify-icons
       title : Distributed Systems
-      content : Distributed system development using messaging framework.
+      content : Distributed system development using messaging framework
 
-#    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-#      title : Graphic Design
-#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
     - icon : ti-package # themify icon pack : https://themify.me/themify-icons
       title : Apps Development
-      content : Android or iPhone application development.
+      content : Android or iPhone application development
       
-#    - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-#      title : Networking
-#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - icon : ti-home # themify icon pack : https://themify.me/themify-icons
+      title : Home Automation
+      content : Making your home smarter that adapts to your requirements
