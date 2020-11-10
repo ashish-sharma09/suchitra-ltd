@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://suchitra-ltd.onrender.com"
 title = "Suchitra"
 theme = "meghna-hugo"
 # post pagination
