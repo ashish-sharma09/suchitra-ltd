@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://wwww.suchitraltd.co.uk"
+baseURL = "https://www.suchitraltd.co.uk"
 title = "Suchitra"
 theme = "meghna-hugo"
 # post pagination
