@@ -4,7 +4,7 @@ banner:
   bg_Image : "images/slider/hero-area-resize.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Simplifying the future"
-  content : "Achieve simple solutions to complex problems through minimal viability principle that meets the need of today and welcome the changes from tomorrow, ensuring sustainability."
+  content : "Achieve simple solutions to complex problems through minimal viability principle that meets the need of today and welcome the changes of tomorrow, ensuring sustainability."
   button:
     enable : true
     label : "Explore Us"
