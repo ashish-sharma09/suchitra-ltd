@@ -4,7 +4,7 @@ contact:
   title : Contact Us
   subtitle : Contact Details
   content : To discuss your requirements with us and see what we can offer please fill the form and we shall get back to you at the earliest.
-  form_Action: "#" #contact form works with https://formspree.io
+  form_Action: "https://formspree.io/f/mrgoadak" #contact form works with https://formspree.io
 #  map:
 #    enable : true
 #    gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -19,4 +19,4 @@ contact:
       info : "Phone: +44 77 943 898 28"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: ashish_sharma09@hotmail.com"
+      info : "Email: ashish@suchitraltd.co.uk"
